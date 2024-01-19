@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "marp -w *.md",
-    "build": "marp *.md -o docs/index.html"
+    "build": "marp *.md -o index.html"
   },
   "keywords": [],
   "author": "",
