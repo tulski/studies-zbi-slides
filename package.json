@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "marp -w *.md",
-    "build": "marp *.md -o docs/zbi.html"
+    "build": "marp *.md -o docs/index.html"
   },
   "keywords": [],
   "author": "",
