@@ -15,6 +15,7 @@ footer: '**PiwowareX** – Polityka Bezpieczeństwa'
 
 <!-- _paginate: skip -->
 <!-- _header: '' -->
+<!-- _footer: '' -->
 <!-- _class: lead -->
 
 # **_PiwowareX_ – Polityka Bezpieczeństwa**
@@ -204,12 +205,6 @@ Kilka kluczowych obszarów zagrożeń:
 - Wrażliwe dane i zagrożenia dla nich
 - Polityka zarządzania incydentami
 - Współpraca z MSSP i SLA
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (# **Polityka bezpieczeństwa fizycznego**)
 
 ---
 
