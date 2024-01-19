@@ -47,7 +47,7 @@ Michał Tułowiecki, Tomasz Mycielski
 
 # **CISO**
 
-Główną osobą odpowiedzialną za politykę bezpieczeństwa jest CISO, powoływany przez zarząd firmy.
+Główną osobą odpowiedzialną za politykę bezpieczeństwa jest CISO (Chief Information Security Officer), powoływany przez zarząd firmy.
 W razie nieobecności CISO, lub jego niezdolności do pracy, obowiązki przejmowane są przez wyznaczonego specjalistę ds. bezpieczeństwa IT.
 
 <!--
@@ -65,7 +65,7 @@ Głównym strażnikiem bezpieczeństwa jest CISO
 
 <!--
 Zakres Obowiązków: Opracowywanie i monitorowanie polityk, nadzór nad standardami bezpieczeństwa, reakcja na incydenty o wysokim priorytecie, raportowanie do zarządu.
-Nadzór: Zarząd firmy i rada nadzorcza wspierani przez audytorów zewnętrznych. 
+Ma Nadzór przez zarząd firmy i radę nadzorczą
 -->
 
 ---
@@ -83,6 +83,8 @@ Nadzór: Zarząd firmy i rada nadzorcza wspierani przez audytorów zewnętrznych
 4. Pomijalna
 
 <!--
+Skala wartości aktywów według ISO 27005
+
 Bardzo duża -- strata lub awaria tych aktywów powoduje natychmiastowe przerwanie procesów biznesowych
 Znacząca -- strata lub awaria tych aktywów może spowodować przerwanie procesów biznesowych
 średnia -- strata lub awaria tych aktywów powoduje utrudnienia w funkcjonowaniu przedsiębiorstwa
@@ -150,6 +152,8 @@ Brak specjalnych zabezpieczeń z uwagi na niską wartość dla potencjalnych zag
 
 ---
 
+<!-- _class: lead -->
+
 # **Polityka zarządzania ryzykiem**
 
 ---
@@ -185,10 +189,21 @@ Kilka kluczowych obszarów zagrożeń:
 - Zagrożenia Środowiskowe i Prawne: Zmiany klimatyczne i niespełnienie wymogów regulacyjnych stanowią ryzyko dla stabilności i zgodności działalności firmy z przepisami.
 -->
 
-[//]: # (---)
+---
 
-[//]: # ()
-[//]: # (# **Polityka zarządzania dostępem**)
+# **Polityka zarządzania dostępem i bezpieczeństwem fizycznym**
+
+- Środki bezpieczeństwa w budynkach firmy
+- Kontrola dostępu i bezpieczeństwo w biurze i zakładzie produkcyjnym
+- Polityka czystego biurka
+
+---
+
+# **Polityka Bezpieczeństwa Operacyjnego i Zarządzania Incydentami Cyberbezpieczeństwa**
+
+- Wrażliwe dane i zagrożenia dla nich
+- Polityka zarządzania incydentami
+- Współpraca z MSSP i SLA
 
 [//]: # ()
 [//]: # (---)
@@ -198,5 +213,9 @@ Kilka kluczowych obszarów zagrożeń:
 
 ---
 
-# **Polityka bezpieczeństwa operacyjnego**
+# **Dziękujemy za uwagę**
+
+- [ISO/IEC 27005:2022](https://www.iso.org/standard/80585.html)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [RODO](https://uodo.gov.pl/404)
 
